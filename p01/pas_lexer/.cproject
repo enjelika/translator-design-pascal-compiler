@@ -99,7 +99,7 @@
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="pas_scanner.cdt.managedbuild.target.gnu.exe.1133719458" name="Executable" projectType="cdt.managedbuild.target.gnu.exe"/>
+		<project id="pas_scanner.cdt.managedbuild.target.gnu.exe.980438100" name="Executable" projectType="cdt.managedbuild.target.gnu.exe"/>
 	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
