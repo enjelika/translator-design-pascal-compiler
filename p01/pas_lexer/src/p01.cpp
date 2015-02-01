@@ -1,18 +1,19 @@
 /********************************************************************
- * File p01.cpp contains functions which process command line        *
+ * File p01.cpp contains functions which process command line		*
  * arguments and invoke the scanner, repeatedly to find all the		*
- * tokens in the input source file.            						*
- *********************************************************************
- * Author1: Gordon Klundt                                            *
- * UCOID: *20336928                                                  *
- * E-Mail: gklundt@uco.edu                                           *
- * Author2: Komes Adrian Kovatana			                        *
- * UCOID: *20367535					                                *
- * E-Mail: kkovatana1@uco.edu	        		                    *
- * Course: CMSC 4023, Programming Languages		                    *
- * CRN: 12105, Autumn, 2014				                            *
- * Assignment: p01					                                *
- * Date: September 29, 2014                                          *
+ * tokens in the input source file.									*
+ ********************************************************************
+ * Author1: Gordon Klundt											*
+ * UCOID: *20336928													*
+ * E-Mail: gklundt@uco.edu											*
+ * Author2: Komes Adrian Kovatana									*
+ * UCOID: *20367535													*
+ * E-Mail: kkovatana1@uco.edu										*
+ * Course: CMSC 4023, Programming Languages							*
+ * CRN: 12105, Autumn, 2014											*
+ * Assignment: p01													*
+ * Date: September 29, 2014											*
+ * I am going to add another line of comments						*
  ********************************************************************/
 #include <cstdlib>
 #include <cstring>
