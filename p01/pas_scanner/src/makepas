@@ -1,0 +1,23 @@
+#------------------------------------------------
+# Author 1:			Debra Hogue
+# Student ID:		*20343220
+# Email:			dhogue1@uco.edu 
+# Author 2:			Gordon Klundt
+# Student ID:		*20336928
+# Email:			gklundt@uco.edu
+# Author 3:			Will McLain
+# Student ID:		*10066002
+# Email:			wmclain@uco.edu
+# Author 4:			Noah Sefcik
+# Student ID:		*20309262
+# Email:			nsefcik@uco.edu
+# Course:			CMSC 4173 - Translator Design
+# CRN:				27419 Spring 2015
+# Project:			p01
+# Due:				January 21, 2015
+# Project Account Number:	tt###
+#------------------------------------------------
+rm *.o
+rm paslex.cpp
+rm pas
+make -f makepascal
